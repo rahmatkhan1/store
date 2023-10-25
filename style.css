@@ -1,0 +1,36 @@
+*{
+  font-family: Poppins,sans-serif;
+}
+.navbar-nav{
+  margin-left: 1000px;
+ }
+ .nav-item{
+  padding: 7px;
+ }
+
+.d-block{
+  height: 600px;
+  width: 200px;
+}
+.container{
+  display: flex;
+  flex-direction: row;
+  padding: 50px;
+  margin: 20px;
+  
+}
+.card{
+  padding: 20px;
+  margin-left: 250px;
+  background-image: linear-gradient(to right, rgba(49, 170, 170, 0), rgba(17, 203, 209, 0.5));
+}
+
+h1{
+  text-align: center;
+  color: red;
+  font-weight: bolder;
+}
+.image{
+  height: 40px;
+  width: 40px;
+}
